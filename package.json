@@ -1,0 +1,23 @@
+{
+  "name": "env",
+  "version": "1.0.0",
+  "description": "Managing environment variables can be a pain. Env helps make that better.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npmatichs/env.git"
+  },
+  "keywords": [
+    "env",
+    "nodejs"
+  ],
+  "author": "wickd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/npmatichs/env/issues"
+  },
+  "homepage": "https://github.com/npmatichs/env#readme"
+}
