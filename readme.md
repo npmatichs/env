@@ -20,7 +20,7 @@ npm install git+http://github.com/npmatichs/use.env --save
 
 # How to use
 
-Register all your namespaces in your entry application script (index.js):
+Register your env in your entry application script (index.js):
 ```
 let envJson = require('.env'); // create some .env.json and put there your enviroments key/value.
 
